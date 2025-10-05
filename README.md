@@ -1,37 +1,21 @@
-<h1 align="center">👋 Hi, I'm Adil Amjad</h1>
+# Hi! My name is Adil Amjad 😄  
 
-<p align="center">
-  🚀 Full Stack Software Engineer | MERN Stack Developer <br/>
-  💡 Building scalable apps, exploring AI & DevOps, and sharing knowledge.
-</p>
+👀 I’m interested in all things **Software Engineering, DevOps, Cloud, and AI** — with a passion for building scalable systems using **React, Node.js, Express, MongoDB, Docker, AWS, and Distributed Architectures**.  
+🌱 I’m currently learning and exploring **Microservices, Cloud Infrastructure (AWS & Docker), Algorithms, and System Design** to strengthen my backend and architecture skills.  
+💞️ I’m looking to collaborate on **MERN Stack, DevOps tools, open-source projects**, or anything related to **modern web development and scalable backend systems**.  
+📫 You can reach me via **[LinkedIn](https://www.linkedin.com/in/adil-amjad)** or email me at **adilamjad.cs@gmail.com**.  
+🌐 Check out my **[Portfolio](https://adilamjad-portfolio.vercel.app)** and **[LeetCode](https://leetcode.com/adilamjad)** profiles to know more about my work.
 
 ---
 
-### ⚡ Tech Stack
+### ⚡ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,redis,firebase,docker,aws,git,postman,cpp" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description |
-|----------|--------------|
-| 🛒 [Smart Cart](https://github.com/adilamjad/smart-cart) | Scalable Multi-Vendor E-Commerce Platform |
-| 🧠 [Quizify](https://github.com/adilamjad/quizify) | Interactive Quiz App built with React Context API |
-| ⚙️ [Mastering C++ Fundamentals](https://github.com/adilamjad/mastering-cpp-fundamentals) | Clean, structured C++ learning repository |
-
----
-
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilamjad&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilamjad&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🌐 Connect With Me
+### 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/adil-amjad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -56,8 +40,4 @@
   <img src="https://komarev.com/ghpvc/?username=adilamjad&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <b>“Code. Build. Inspire.”</b>
-</p>
-
----
+<p align="center"><b>“Code. Build. Inspire.”</b></p>
