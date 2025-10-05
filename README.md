@@ -1,21 +1,37 @@
 # Hi! My name is Adil Amjad 😄  
 
-👀 I’m interested in all things **Software Engineering, DevOps, Cloud, and AI** — with a passion for building scalable systems using **React, Node.js, Express, MongoDB, Docker, AWS, and Distributed Architectures**.  
-🌱 I’m currently learning and exploring **Microservices, Cloud Infrastructure (AWS & Docker), Algorithms, and System Design** to strengthen my backend and architecture skills.  
-💞️ I’m looking to collaborate on **MERN Stack, DevOps tools, open-source projects**, or anything related to **modern web development and scalable backend systems**.  
-📫 You can reach me via **[LinkedIn](https://www.linkedin.com/in/adil-amjad)** or email me at **adilamjad.cs@gmail.com**.  
-🌐 Check out my **[Portfolio](https://adilamjad-portfolio.vercel.app)** and **[LeetCode](https://leetcode.com/adilamjad)** profiles to know more about my work.
+---
+
+### 👨‍💻 About Me  
+- 🚀 Full Stack Software Engineer passionate about building scalable, high-performance web applications.  
+- 🌍 Based in **Lahore, Pakistan** — exploring the intersection of **software engineering, DevOps, and cloud computing**.  
+- 🌱 Currently diving deeper into **Microservices, Cloud Infrastructure (AWS, Docker), System Design, and Distributed Systems**.  
+- 💡 I love crafting clean architectures, solving algorithmic problems, and contributing to open-source.  
+- 🎯 My long-term goal is to **build impactful software** and create solutions that empower others.  
 
 ---
 
-### ⚡ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,redis,firebase,docker,aws,git,postman,cpp" />
-</p>
+### 🧠 Skills & Technologies  
+
+**Frontend Development**  
+- HTML, CSS, Tailwind CSS, Bootstrap, React.js, Next.js, TypeScript  
+
+**Backend Development**  
+- Node.js, Express.js, REST APIs, Authentication, Authorization  
+
+**Database & Storage**  
+- MongoDB, Redis, Firebase  
+
+**DevOps & Cloud**  
+- Docker, AWS, CI/CD, System Monitoring  
+
+**Programming & Tools**  
+- C++, JavaScript, Git, Postman, VS Code  
 
 ---
 
 ### 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/adil-amjad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
