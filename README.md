@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=cpp)]()  
 
-<br />
+### Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adil-amjad" target="_blank">
