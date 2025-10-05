@@ -26,22 +26,3 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=cpp)]()  
 
-### Socials
-
-<p>
-  <a href="https://www.linkedin.com/in/adil-amjad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://adilamjad-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/adilamjad" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:adilamjad.cs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
