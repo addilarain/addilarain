@@ -4,7 +4,7 @@
 
 <br />
 
-### 🧠 Skills and Experience
+### Skills and Experience
 
 [![My Skills](https://skillicons.dev/icons?i=html)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=css)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -16,9 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=nextjs)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=nodejs)]() 
-
-<br /><br /> 
-
+<br />
 [![My Skills](https://skillicons.dev/icons?i=express)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=mongodb)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=redis)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -29,8 +27,6 @@
 [![My Skills](https://skillicons.dev/icons?i=postman)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=vscode)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=cpp)]()  
-
----
 
 ### 🤝 Connect With Me
 
@@ -51,7 +47,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
----
-
-⭐️ From [Adil Amjad](https://github.com/adilamjad)
