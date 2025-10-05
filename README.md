@@ -2,8 +2,6 @@
 
 🌍  I am a Full Stack Software Engineer based in Lahore, Pakistan.
 
-<br />
-
 ### Skills and Experience
 
 [![My Skills](https://skillicons.dev/icons?i=html)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
