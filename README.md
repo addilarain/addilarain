@@ -3,7 +3,6 @@
 🌍  I am a Full Stack Software Engineer based in Lahore, Pakistan.
 
 <br />
-
 ### Skills and Experience
 
 [![My Skills](https://skillicons.dev/icons?i=html)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -28,7 +27,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=cpp)]()  
 
-### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adil-amjad" target="_blank">
