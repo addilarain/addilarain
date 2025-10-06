@@ -1,59 +1,46 @@
-# Hi! My name is Adil Amjad 😄  
+# 👋 Hi! My name is Adil Amjad 😄  
+
+- 🎓 I’m a **Software Engineer** and **BSCS student (UE’26)** passionate about building scalable, impactful web applications.  
+- 💻 I specialize in **MERN Stack Development** — crafting clean, efficient, and modern full-stack solutions.  
+- 🧠 Strong in **Data Structures & Algorithms (DSA)** with **200+ LeetCode problems solved**, focusing on problem-solving and optimization.  
+- 🚀 I love transforming ideas into functional products — from backend architecture to seamless frontend experiences.  
 
 ---
 
-### 👨‍💻 About Me  
-- 🚀 Full Stack Software Engineer passionate about building scalable, high-performance web applications.  
-- 🌍 Based in **Lahore, Pakistan** — exploring the intersection of **software engineering, DevOps, and cloud computing**.  
-- 🌱 Currently diving deeper into **Microservices, Cloud Infrastructure (AWS, Docker), System Design, and Distributed Systems**.  
-- 💡 I love crafting clean architectures, solving algorithmic problems, and contributing to open-source.  
-- 🎯 My long-term goal is to **build impactful software** and create solutions that empower others.  
+### 🧩 What I Can Do  
+- Design and develop **end-to-end full-stack applications** with scalable and maintainable architecture.  
+- Build **modern user interfaces** using React.js, Next.js, and Tailwind CSS.  
+- Develop **secure and performant backend systems** using Node.js, Express.js, and MongoDB.  
+- Work with APIs, authentication, cloud storage, and deployment tools for real-world scalability.  
 
 ---
 
-### 🧠 Skills & Technologies  
-
-**Frontend Development**  
-- HTML, CSS, Tailwind CSS, Bootstrap, React.js, Next.js, TypeScript  
-
-**Backend Development**  
-- Node.js, Express.js, REST APIs, Authentication, Authorization  
-
-**Database & Storage**  
-- MongoDB, Redis, Firebase  
-
-**DevOps & Cloud**  
-- Docker, AWS, CI/CD, System Monitoring  
-
-**Programming & Tools**  
-- C++, JavaScript, Git, Postman, VS Code  
+### 🛠️ Skills  
+- 🎨 **Frontend:** React.js, Next.js, JavaScript (ES6+), TypeScript, Tailwind CSS, Bootstrap, HTML5, CSS3  
+- ⚙️ **Backend:** Node.js, Express.js, MongoDB, REST APIs, JWT, Cloudinary, Socket.io, Stripe, PayPal  
+- ☁️ **DevOps & Tools:** Git, GitHub, Docker (Learning), AWS (Learning), Vercel, Postman  
 
 ---
 
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adil-amjad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://adilamjad-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/adilamjad" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:adilamjad.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### 💼 Projects  
+- 🛍️ **[The Smart Cart](#)** – A next-generation **multivendor e-commerce platform** built with the MERN stack, featuring real-time chat, analytics dashboard, and secure payments.  
+- 🎓 **[LMS (Learning Management System)](#)** – A full-stack platform for managing online courses, users, and progress tracking with authentication and dashboard.  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adilamjad&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
+### 📚 Currently Learning  
+- DevOps fundamentals — **Docker, AWS, CI/CD, Cloud Deployment**  
+- Deep diving into **System Design and Scalable Architecture**  
+- Enhancing **Open Source Collaboration & Contributions**  
 
-<p align="center"><b>“Code. Build. Inspire.”</b></p>
+---
+
+### 🤝 Let’s Connect  
+- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio Website](#)  
+- 🐦 [Twitter / X](#)  
+- 📧 **Email:** yourname@email.com  
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
