@@ -6,7 +6,7 @@
 
 ### Skills and Experience.
 
-[![My Skills](https://skillicons.dev/icons?i=html)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html)]('#') &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=css)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=sass)]()  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
