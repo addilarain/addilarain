@@ -3,7 +3,6 @@
 - 👀 Passionate about **scalable system design** and **full-stack development**, always pushing to improve my engineering craft.  
 - 💻 I build modern web apps using **React.js**, **Node.js**, and **MongoDB**, focused on clean architecture and great user experience.  
 - ⚙️ Skilled in crafting **RESTful APIs**, secure **authentication**, and **modular backend systems** that perform efficiently.  
-
 - 🚀 I’ve built impactful projects like:  
   - 🛒 **The Smart Cart** — A Multi-Vendor E-Commerce Platform (MERN).  
   - 🎓 **LMS (Learning Management System)** — Simplifying digital learning and course management.  
