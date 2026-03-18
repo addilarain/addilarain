@@ -1,28 +1,63 @@
-# Hi! My name is Adil Amjad 😄
+# Hi, I'm Adil Amjad
 
-🌍  I am a Full Stack Software Engineer based in Lahore, Pakistan.
+I’m a Computer Science student and Full Stack Developer focused on building scalable, real-world web applications using the MERN stack.  
+Currently, I’m deepening my expertise in Data Structures & Algorithms, DevOps, and cloud technologies to become a well-rounded Software Engineer.
 
-<br />
+I enjoy turning ideas into impactful products, contributing to open source, and continuously improving my problem-solving skills.
 
-### Skills and Experience.
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html)]('#') &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=css)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=sass)]()  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=tailwind)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=js)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=ts)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=react)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=redux)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=nextjs)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br><br> 
-[![My Skills](https://skillicons.dev/icons?i=nodejs)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=express)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=mongodb)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=redis)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=firebase)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=postman)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=git)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=github)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=vscode)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=cpp)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## What I Do
+
+- Build full-stack web applications using modern technologies  
+- Write clean, maintainable, and scalable code  
+- Practice DSA regularly to strengthen problem-solving  
+- Explore DevOps, AWS, and system design fundamentals  
+- Work on projects that solve real-world problems  
+
+---
+
+## Tech Stack
+
+**Frontend**  
+React.js, Next.js, JavaScript (ES6+), Tailwind CSS  
+
+**Backend**  
+Node.js, Express.js, REST APIs  
+
+**Database**  
+MongoDB  
+
+**Tools & Practices**  
+Git, GitHub, Postman, VS Code  
+
+**Currently Learning**  
+Data Structures & Algorithms (C++), DevOps, AWS, System Design  
+
+---
+
+## Projects
+
+- **Quizify** — Interactive quiz application using React (Context API, Reducer, Hooks)  
+- **MERN LMS Platform** — Learning management system with authentication and course management  
+- **E-commerce Platform** — Full-stack app with product management and modern UI  
+
+---
+
+## Goals
+
+- Become a strong Software Engineer with expertise in scalable systems  
+- Contribute to impactful open-source projects (GSoC-level contributions)  
+- Build products that help developers learn and grow  
+- Launch my own tech platform / software house in the future  
+
+---
+
+## Let's Connect
+
+- LinkedIn: https://linkedin.com/in/your-link  
+- GitHub: https://github.com/adilarain00  
+
+---
+
+> Always learning. Always building.
