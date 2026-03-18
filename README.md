@@ -1,63 +1,80 @@
-# Hi, I'm Adil Amjad
+# Adil Amjad
 
-I’m a Computer Science student and Full Stack Developer focused on building scalable, real-world web applications using the MERN stack.  
-Currently, I’m deepening my expertise in Data Structures & Algorithms, DevOps, and cloud technologies to become a well-rounded Software Engineer.
-
-I enjoy turning ideas into impactful products, contributing to open source, and continuously improving my problem-solving skills.
+Full Stack Developer (MERN) focused on building scalable, production-ready applications.  
+Currently strengthening core foundations in Data Structures & Algorithms, System Design, and DevOps to transition into high-impact software engineering roles.
 
 ---
 
-## What I Do
+## Profile Summary
 
-- Build full-stack web applications using modern technologies  
-- Write clean, maintainable, and scalable code  
-- Practice DSA regularly to strengthen problem-solving  
-- Explore DevOps, AWS, and system design fundamentals  
-- Work on projects that solve real-world problems  
+- Computer Science student with strong fundamentals in web development  
+- Hands-on experience building full-stack applications from scratch  
+- Actively improving problem-solving through DSA (C++)  
+- Exploring DevOps, AWS, and scalable system architecture  
+- Consistent learner with a long-term vision of building impactful tech products  
 
 ---
 
-## Tech Stack
+## Technical Focus
 
 **Frontend**  
 React.js, Next.js, JavaScript (ES6+), Tailwind CSS  
 
 **Backend**  
-Node.js, Express.js, REST APIs  
+Node.js, Express.js, REST API Design  
 
 **Database**  
 MongoDB  
 
-**Tools & Practices**  
+**Core CS & Problem Solving**  
+C++, Data Structures, Algorithms, Problem-Solving Patterns  
+
+**Tools & Workflow**  
 Git, GitHub, Postman, VS Code  
 
-**Currently Learning**  
-Data Structures & Algorithms (C++), DevOps, AWS, System Design  
+**Currently Exploring**  
+System Design, DevOps, AWS, Scalable Architectures  
 
 ---
 
-## Projects
+## Selected Work
 
-- **Quizify** — Interactive quiz application using React (Context API, Reducer, Hooks)  
-- **MERN LMS Platform** — Learning management system with authentication and course management  
-- **E-commerce Platform** — Full-stack app with product management and modern UI  
+**Quizify**  
+Interactive quiz platform demonstrating advanced React patterns (Context API, useReducer, Hooks)
+
+**MERN LMS Platform**  
+Full-stack learning system with authentication, course management, and scalable backend structure  
+
+**E-commerce Platform**  
+End-to-end application with product management, API integration, and modern UI  
 
 ---
 
-## Goals
+## Engineering Mindset
 
-- Become a strong Software Engineer with expertise in scalable systems  
-- Contribute to impactful open-source projects (GSoC-level contributions)  
+- Write clean, readable, and maintainable code  
+- Focus on fundamentals over shortcuts  
+- Build projects that reflect real-world complexity  
+- Learn in public and iterate consistently  
+- Value long-term growth over short-term hype  
+
+---
+
+## Current Goals
+
+- Master Data Structures & Algorithms for strong problem-solving  
+- Gain hands-on experience with scalable backend systems  
+- Contribute to impactful open-source projects (GSoC-level)  
+- Develop expertise in DevOps and cloud infrastructure  
 - Build products that help developers learn and grow  
-- Launch my own tech platform / software house in the future  
 
 ---
 
-## Let's Connect
+## Connect
 
-- LinkedIn: https://linkedin.com/in/your-link  
-- GitHub: https://github.com/adilarain00  
+LinkedIn: https://linkedin.com/in/your-link  
+GitHub: https://github.com/adilarain00  
 
 ---
 
-> Always learning. Always building.
+> Building with consistency. Growing with purpose.
