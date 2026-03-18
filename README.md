@@ -1,5 +1,3 @@
-# Hi, I'm Adil Amjad
-
 - 🎯 Full Stack Developer (MERN) building scalable, production-ready applications that solve real-world problems  
 - 💻 Computer Science student evolving from writing code to designing maintainable and efficient systems  
 - 🛠️ Experienced in building modern web applications using React, Node.js, and MongoDB  
