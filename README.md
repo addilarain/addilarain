@@ -1,10 +1,31 @@
-- 🎯 Full Stack Developer (MERN) building scalable, production-ready applications that solve real-world problems  
-- 💻 Computer Science student evolving from writing code to designing maintainable and efficient systems  
-- 🛠️ Experienced in building modern web applications using React, Node.js, and MongoDB  
-- ⚙️ Actively strengthening problem-solving skills through DSA (C++) focusing on patterns and efficiency  
-- 🚀 Exploring System Design, DevOps, and AWS to build scalable production-ready systems  
-- 📦 Built multiple full-stack projects including MERN LMS, E-commerce platform, and Quizify  
-- 📈 Consistent learner improving fundamentals daily through hands-on coding and real-world projects  
-- 🎯 Long-term vision is to become a high-impact Software Engineer creating meaningful products  
-- 🌍 Open to collaborating on open-source, backend development, and impactful full-stack projects  
-- 📫 Let’s connect and collaborate: https://linkedin.com/in/your-link for building innovative solutions
+# Hi, I'm Adil Amjad
+
+I’m **Adil Amjad**, a Full-Stack Software Engineer and BSCS student at UE'26, based in Lahore, Pakistan.  
+I build **high-performance, scalable web applications**, from pixel-perfect frontends to production-ready backend architecture.
+
+I’m skilled at **end-to-end web development** — creating modern, responsive frontends and secure, well-structured backend systems.  
+I design **RESTful APIs**, implement secure authentication, handle errors efficiently, and optimize backend logic for scalable performance.
+
+---
+
+## Technical Skills
+
+- **Programming Languages:** JavaScript, TypeScript, C++  
+- **Frontend Development:** HTML, CSS, Tailwind CSS, Bootstrap, React.js, Next.js  
+- **Backend & Database:** Node.js, Express.js, MongoDB  
+
+---
+
+## Currently Focused On
+
+- Contributing to **open-source projects** and building impactful, real-world applications  
+- Deepening understanding of **systems, architecture**, and how things work behind the scenes  
+- Cultivating a **growth-oriented mindset** to maximize learning and execution  
+
+---
+
+## Beyond Code
+
+I’m passionate about **cars and good food**, fueling both creativity and adventure.  
+
+📩 Open to collaboration, open-source contributions, and **meaningful tech discussions**  
