@@ -32,12 +32,12 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 
 | Project | Description | Demo |
 |--------|------------|------|
-| **LearnX** | Production-grade LMS with secure streaming, payments, analytics, scalable MERN architecture. | [Live](https://the-learnx.vercel.app/) |
-| **Smart Cart** | Scalable multivendor e-commerce with real-time features and seamless checkout experience. | [Live](https://the-smart-cart.vercel.app/) |
-| **JSON Schema Observability** | Data-driven platform tracking ecosystem health using pipelines, metrics, anomaly detection. | [Live](https://json-schema-ecosystem-observability.vercel.app/) |
-| **Easy Cheesy Co.** | Interactive pizza ordering app with customization, tracking, and smooth user experience. | [Live](https://easycheesy123-app.vercel.app/) |
-| **World Wise** | Travel tracking app with maps, live location, and journey logging features. | [Live](https://the-world-wise-app.vercel.app/) |
-| **Wild Oasis** | Hotel management dashboard with bookings, analytics, authentication, and real-time data. | [Live](https://the-wild-aosis-dusky.vercel.app/) |
+| **LearnX** | Full-stack LMS with secure video streaming, payments, analytics, and course management. | [Live](https://the-learnx.vercel.app/) |
+| **Smart Cart** | Multi-vendor e-commerce with product management, real-time features, and seamless checkout experience. | [Live](https://the-smart-cart.vercel.app/) |
+| **JSON Schema Observability** | Observability platform tracking ecosystem health using data pipelines, metrics, and analytics dashboards. | [Live](https://json-schema-ecosystem-observability.vercel.app/) |
+| **Easy Cheesy Co.** | Pizza ordering app with menu customization, order tracking, and smooth user experience. | [Live](https://easycheesy123-app.vercel.app/) |
+| **World Wise** | Travel tracking app with interactive maps, location tracking, and journey logging features. | [Live](https://the-world-wise-app.vercel.app/) |
+| **Wild Oasis** | Hotel management dashboard with bookings, authentication, analytics, and responsive admin interface. | [Live](https://the-wild-aosis-dusky.vercel.app/) |
 
 ## 📊 GitHub Stats
 
