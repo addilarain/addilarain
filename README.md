@@ -53,6 +53,10 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 | <img src="https://github-readme-stats.vercel.app/api?username=adilarain00&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=B0B3B8&icon_color=FFD700&text_color=E0E0E0&bg_color=0d1117" alt="Adil Amjad GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilarain00&theme=dark&hide_border=true&background=0d1117&stroke=E0E0E0&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=B0B3B8&sideNums=E0E0E0&sideLabels=B0B3B8" alt="Adil Amjad GitHub Streak" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+### GitHub Activity Graph:
+
+[![Adil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adilarain00&bg_color=0d1117&color=FFD700&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/adilarain00)
+
 ## 🌐 Connect With Me
 
 I'm open to collaborations, open-source contributions, and opportunities to build impactful, real-world projects.
