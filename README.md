@@ -22,7 +22,7 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FFD700?style=for-the-badge&logo=aws&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF5733?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Amazon AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-0033FF?style=for-the-badge&logo=cloudinary&logoColor=white)
