@@ -50,7 +50,7 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 
 ## Stats:
 
-<!-- &nbsp;[![](https://img.shields.io/github/followers/ahadalireach?style=flat&color=blue&label=Followers&logo=github)](https://github.com/ahadalireach) -->
+ &nbsp;[![](https://img.shields.io/github/followers/ahadalireach?style=flat&color=blue&label=Followers&logo=github)](https://github.com/ahadalireach)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahadalireach&style=flat&color=blue)
 [![Wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
