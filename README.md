@@ -32,11 +32,12 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 
 | Project | Description | Demo |
 |--------|------------|------|
-| **LearnX** | Production-grade LMS platform with secure video delivery, Stripe payments, and real-time analytics built on a TypeScript-first MERN architecture. | [Live](https://the-learnx.vercel.app/) |
-| **Smart Cart** | Scalable multivendor e-commerce platform enabling independent sellers, real-time interactions, and seamless checkout experience. | [Live](https://the-smart-cart.vercel.app/) |
-| **JSON Schema Observability** | Data-driven observability platform tracking ecosystem health using automated pipelines, anomaly detection, and interactive dashboards. | [Live](https://json-schema-ecosystem-observability.vercel.app/) |
-| **Wild Oasis** | Modern hotel management dashboard with authentication, booking management, analytics, and real-time data using React and Supabase. | [Live](https://the-wild-aosis-dusky.vercel.app/) |
-| **World Wise** | Travel tracking app with interactive maps, live location tracking, and personalized journey logging experience. | [Live](https://the-world-wise-app.vercel.app/) |
+| **LearnX** | Production-grade LMS with secure streaming, payments, analytics, scalable MERN architecture. | [Live](https://the-learnx.vercel.app/) |
+| **Smart Cart** | Scalable multivendor e-commerce with real-time features and seamless checkout experience. | [Live](https://the-smart-cart.vercel.app/) |
+| **JSON Schema Observability** | Data-driven platform tracking ecosystem health using pipelines, metrics, anomaly detection. | [Live](https://json-schema-ecosystem-observability.vercel.app/) |
+| **Easy Cheesy Co.** | Interactive pizza ordering app with customization, tracking, and smooth user experience. | [Live](https://easycheesy123-app.vercel.app/) |
+| **World Wise** | Travel tracking app with maps, live location, and journey logging features. | [Live](https://the-world-wise-app.vercel.app/) |
+| **Wild Oasis** | Hotel management dashboard with bookings, analytics, authentication, and real-time data. | [Live](https://the-wild-aosis-dusky.vercel.app/) |
 
 ## 📊 GitHub Stats
 
