@@ -59,7 +59,6 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 | <img src="https://github-readme-stats.vercel.app/api?username=ahadalireach&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ahad Ali GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadalireach&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadalireach&layout=compact" style="width: 100%; height: 230px;" />
 ## 🌐 Connect With Me
 
 I'm open to collaborations, open-source contributions, and opportunities to build impactful, real-world projects.
