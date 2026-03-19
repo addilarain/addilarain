@@ -48,16 +48,16 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 
 ## 📊 GitHub Stats
 
-## Stats:
+### Stats:
 
- &nbsp;[![](https://img.shields.io/github/followers/ahadalireach?style=flat&color=blue&label=Followers&logo=github)](https://github.com/ahadalireach)
+&nbsp;[![](https://img.shields.io/github/followers/adilarain00?style=flat&color=yellow&label=Followers&logo=github)](https://github.com/adilarain00)
+&nbsp;[![](https://komarev.com/ghpvc/?username=adilarain00&style=flat&color=yellow&label=Profile+Views))](https://github.com/adilarain00)
+&nbsp;[![](https://img.shields.io/badge/Languages-Javascript | React | Node | Express | MongoDB | SQL-yellow?style=flat)](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahadalireach&style=flat&color=blue)
-[![Wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
-<img src="https://img.shields.io/badge/Languages-Javascript | React | Node | Express | MongoDB | SQL-green.svg" alt="Ahad Ali's languages" />
+### GitHub Stats & Streak
 
-| <img src="https://github-readme-stats.vercel.app/api?username=ahadalireach&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ahad Ali GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadalireach&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=adilarain00&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" alt="Adil Amjad GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilarain00&theme=dark&hide_border=true&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700" alt="Adil Amjad GitHub Streak" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 🌐 Connect With Me
 
