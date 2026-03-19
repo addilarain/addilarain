@@ -55,7 +55,7 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 
 ### GitHub Activity Graph:
 
-[![Adil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adilarain00&bg_color=0d1117&color=FFD700&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/adilarain00)
+[![Adil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adilarain00&bg_color=0d1117&color=B0B3B8&line=E0E0E0&point=27AA36&area=true&hide_border=true)](https://github.com/adilarain00)
 
 ## 🌐 Connect With Me
 
