@@ -2,8 +2,6 @@
 
 Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in Lahore, Pakistan. I build high-performance, scalable web applications — from pixel-perfect frontends to production-ready backend systems. I focus on writing clean, maintainable code and continuously improving my problem-solving and system design skills. I enjoy building real-world projects, contributing to open source, and collaborating on impactful ideas.
 
----
-
 ## 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
@@ -28,6 +26,7 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws)
 
 ---
 
@@ -47,7 +46,8 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adilarain00)
 ---
 
 ## 🤝 Let’s Collaborate
