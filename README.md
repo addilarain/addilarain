@@ -31,12 +31,12 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 
 | Project | Description | Demo |
 |--------|------------|------|
-| **LearnX** | Full-stack LMS with secure video streaming, payments, analytics, and course management. | [Live](https://the-learnx.vercel.app/) |
-| **Smart Cart** | Multi-vendor e-commerce with products and orders management, real-time features. | [Live](https://the-smart-cart.vercel.app/) |
+| **The LearnX** | Full-stack LMS with secure video streaming, payments, analytics, and course management. | [Live](https://the-learnx.vercel.app/) |
+| **The Smart Cart** | Multi-vendor e-commerce with products and orders management, real-time features. | [Live](https://the-smart-cart.vercel.app/) |
 | **JSON Observability** | Platform tracking ecosystem health using data pipelines, metrics, and analytics dashboards. | [Live](https://json-schema-ecosystem-observability.vercel.app/) |
-| **Easy Cheesy** | Pizza ordering app with menu customization, order tracking, and smooth user experience. | [Live](https://easycheesy123-app.vercel.app/) |
-| **World Wise** | Travel tracking app with interactive maps, location tracking, and journey logging features. | [Live](https://the-world-wise-app.vercel.app/) |
-| **Wild Oasis** | Hotel management dashboard with bookings, auth, analytics, and responsive admin interface. | [Live](https://the-wild-aosis-dusky.vercel.app/) |
+| **Easy Cheesy Co.** | Pizza ordering app with menu customization, order tracking, and smooth user experience. | [Live](https://easycheesy123-app.vercel.app/) |
+| **The World Wise** | Travel tracking app with interactive maps, location tracking, and journey logging features. | [Live](https://the-world-wise-app.vercel.app/) |
+| **The Wild Oasis** | Hotel management dashboard with bookings, auth, analytics, and responsive admin interface. | [Live](https://the-wild-aosis-dusky.vercel.app/) |
 
 ## 📊 GitHub Stats & Streak
 
@@ -44,8 +44,9 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 [![Profile Views](https://komarev.com/ghpvc/?username=adilarain00&style=for-the-badge&color=blue&label=Profile%20Views)](https://github.com/adilarain00)
 [![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20React.js%20%7C%20Node.js-DAA520?style=for-the-badge&logo=javascript)](#)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=adilarain00&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=B0B3B8&icon_color=3fb0f1&text_color=E0E0E0&bg_color=0d1117" alt="Adil Amjad GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilarain00&theme=dark&hide_border=true&background=0d1117&stroke=E0E0E0&ring=27AA36&fire=27AA36&currStreakNum=FFD700&currStreakLabel=B0B3B8&sideNums=E0E0E0&sideLabels=B0B3B8" alt="Adil Amjad GitHub Streak" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=adilarain00&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=B0B3B8&icon_color=27AA36&text_color=E0E0E0&bg_color=0d1117" alt="Adil Amjad GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilarain00&theme=dark&hide_border=true&background=0d1117&stroke=E0E0E0&ring=27AA36&fire=27AA36&currStreakNum=FFD700&currStreakLabel=B0B3B8&sideNums=E0E0E0&sideLabels=B0B3B8" alt="Adil Amjad GitHub Streak" /> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 [![Adil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adilarain00&bg_color=0d1117&color=B0B3B8&line=E0E0E0&point=27AA36&area=true&hide_border=true)](https://github.com/adilarain00)
 
