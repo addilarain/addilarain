@@ -1,5 +1,3 @@
-# Hi, I'm Adil Amjad
-
 - 🎯 Full-Stack Software Engineer and BSCS student at UE'26, based in Lahore, Pakistan  
 - 💻 I build high-performance, scalable web applications from pixel-perfect frontends to backend  
 - 🛠️ Skilled at developing end-to-end web applications with secure and well-structured backend systems  
