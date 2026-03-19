@@ -28,6 +28,12 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws)
 
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=adilarain00&style=for-the-badge)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adilarain00&show_icons=true&hide_border=true)
+
 ## 🌐 Connect With Me
 
 I'm open to collaborations, open-source contributions, and opportunities to build impactful, real-world projects.
