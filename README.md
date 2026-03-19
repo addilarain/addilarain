@@ -46,9 +46,16 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 [![Profile Views](https://komarev.com/ghpvc/?username=adilarain00&style=for-the-badge&color=blue&label=Profile%20Views)](https://github.com/adilarain00)
 [![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20React.js%20%7C%20Node.js-DAA520?style=for-the-badge&logo=javascript)](#)
 
-### GitHub Stats & Streak
+## 📊 GitHub Stats & Streak
 
-| <img src="https://github-readme-stats.vercel.app/api?username=adilarain00&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117" alt="Adil Amjad GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilarain00&theme=dark&hide_border=true&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=FFD700" alt="Adil Amjad GitHub Streak" /> |
+### Stats Badges:
+&nbsp;[![](https://img.shields.io/github/followers/adilarain00?style=flat&color=FFD700&label=Followers&logo=github)](https://github.com/adilarain00)
+&nbsp;[![](https://komarev.com/ghpvc/?username=adilarain00&style=flat&color=FFD700&label=Profile+Views))](https://github.com/adilarain00)
+&nbsp;[![](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20React.js%20%7C%20Next.js%20%7C%20Node.js-DAA520?style=for-the-badge&logo=javascript)](#)
+
+### GitHub Cards:
+
+| <img src="https://github-readme-stats.vercel.app/api?username=adilarain00&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=B0B3B8&icon_color=FFD700&text_color=E0E0E0&bg_color=0d1117" alt="Adil Amjad GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilarain00&theme=dark&hide_border=true&background=0d1117&stroke=E0E0E0&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=B0B3B8&sideNums=E0E0E0&sideLabels=B0B3B8" alt="Adil Amjad GitHub Streak" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 🌐 Connect With Me
