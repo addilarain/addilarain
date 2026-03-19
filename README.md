@@ -33,11 +33,11 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 | Project | Description | Demo |
 |--------|------------|------|
 | **LearnX** | Full-stack LMS with secure video streaming, payments, analytics, and course management. | [Live](https://the-learnx.vercel.app/) |
-| **Smart Cart** | Multi-vendor e-commerce with product management, real-time features, and seamless checkout experience. | [Live](https://the-smart-cart.vercel.app/) |
-| **JSON Observability** | Observability platform tracking ecosystem health using data pipelines, metrics, and analytics dashboards. | [Live](https://json-schema-ecosystem-observability.vercel.app/) |
+| **Smart Cart** | Multi-vendor e-commerce with product management, real-time features, and seamless checkout. | [Live](https://the-smart-cart.vercel.app/) |
+| **JSON Observability** | Platform tracking ecosystem health using data pipelines, metrics, and analytics dashboards. | [Live](https://json-schema-ecosystem-observability.vercel.app/) |
 | **Easy Cheesy** | Pizza ordering app with menu customization, order tracking, and smooth user experience. | [Live](https://easycheesy123-app.vercel.app/) |
 | **World Wise** | Travel tracking app with interactive maps, location tracking, and journey logging features. | [Live](https://the-world-wise-app.vercel.app/) |
-| **Wild Oasis** | Hotel management dashboard with bookings, authentication, analytics, and responsive admin interface. | [Live](https://the-wild-aosis-dusky.vercel.app/) |
+| **Wild Oasis** | Hotel management dashboard with bookings, auth, analytics, and responsive admin interface. | [Live](https://the-wild-aosis-dusky.vercel.app/) |
 
 ## 📊 GitHub Stats
 
