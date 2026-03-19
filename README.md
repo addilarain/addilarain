@@ -50,9 +50,9 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 
 ### Stats:
 
-[![Followers](https://img.shields.io/github/followers/adilarain00?style=for-the-badge&color=yellow&logo=github)](https://github.com/adilarain00)
-[![Profile Views](https://komarev.com/ghpvc/?username=adilarain00&style=for-the-badge&color=yellow&label=Profile%20Views)](https://github.com/adilarain00)
-[![Languages](https://img.shields.io/badge/Languages-Javascript%20%7C%20React%20%7C%20Node%20%7C%20Express%20%7C%20MongoDB%20%7C%20SQL-yellow?style=for-the-badge&logo=javascript)](#)
+[![Followers](https://img.shields.io/github/followers/adilarain00?style=for-the-badge&color=FFD700&logo=github)](https://github.com/adilarain00)
+[![Profile Views](https://komarev.com/ghpvc/?username=adilarain00&style=for-the-badge&color=FFD700&label=Profile%20Views)](https://github.com/adilarain00)
+[![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20React.js%20%7C%20Next.js%20%7C%20Node.js-FFD700?style=for-the-badge&logo=javascript)](#)
 
 ### GitHub Stats & Streak
 
