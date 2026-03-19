@@ -1,10 +1,12 @@
-- 🎯 Full-Stack Software Engineer and BSCS student at UE'26, based in Lahore, Pakistan  
-- 💻 I build high-performance, scalable web applications from pixel-perfect frontends to backend  
-- 🛠️ Skilled at developing end-to-end web applications with secure and well-structured backend systems  
-- ⚙️ Design RESTful APIs, implement secure authentication, manage errors, and optimize backend logic efficiently  
-- 🚀 Experienced in modern frontend technologies including React.js, Next.js, Tailwind CSS, and Bootstrap  
-- 📦 Proficient in backend development with Node.js, Express.js, and database management using MongoDB  
-- 📈 Currently focused on contributing to impactful open-source projects and real-world applications  
-- 🌱 Deepening understanding of system architecture, scalable designs, and production-ready application structures  
-- 🎯 Cultivating a growth-oriented mindset to maximize learning, execution, and practical engineering skills  
-- 🌍 Outside coding, passionate about cars and good food while collaborating on meaningful tech projects  
+- 👋 Hi, I’m Adil Amjad, building impactful software with precision and purpose
+- 💻 Full Stack Software Engineer with 2+ years delivering scalable web applications
+- 🌍 Based in Lahore, Pakistan, collaborating with global teams, startups, and innovators
+- 🚀 Building high-performance applications from pixel-perfect frontends to scalable backend systems
+- 🎯 Currently focused on production-level projects and meaningful open source contributions
+- ⚡ Frontend expertise in JavaScript, TypeScript, React.js, and Next.js ecosystems
+- 🔧 Backend development using Node.js, Express.js, and MongoDB for scalable architectures
+- 🛒 Built projects like Smart Cart, LearnX, and JSON Schema Observability platform
+- 🧠 Solving algorithmic challenges on LeetCode with optimized and efficient approaches
+- 🤝 Open to full stack opportunities, collaborations, and impactful open source projects
+- 📈 Focused on clean code, performance optimization, and real-world problem solving
+- 📬 Reach me via Email, LinkedIn, GitHub, or Portfolio for collaboration opportunities
