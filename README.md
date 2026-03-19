@@ -42,7 +42,7 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 
 ### Stats:
 
-[![Followers](https://img.shields.io/github/followers/adilarain00?style=for-the-badge&color=FFD700&logo=github)](https://github.com/adilarain00)
+[![Followers](https://img.shields.io/github/followers/adilarain00?style=for-the-badge&color=blue&logo=github)](https://github.com/adilarain00)
 [![Profile Views](https://komarev.com/ghpvc/?username=adilarain00&style=for-the-badge&color=FFD700&label=Profile%20Views)](https://github.com/adilarain00)
 [![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20React.js%20%7C%20Node.js-FFD700?style=for-the-badge&logo=javascript)](#)
 
@@ -63,5 +63,3 @@ I'm open to collaborations, open-source contributions, and opportunities to buil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adilarain00)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-Thank you for visiting my profile. Let’s build something meaningful 🚀
