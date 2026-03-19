@@ -39,13 +39,6 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 | **World Wise** | Travel tracking app with interactive maps, location tracking, and journey logging features. | [Live](https://the-world-wise-app.vercel.app/) |
 | **Wild Oasis** | Hotel management dashboard with bookings, auth, analytics, and responsive admin interface. | [Live](https://the-wild-aosis-dusky.vercel.app/) |
 
-## 🎯 Current Focus
-
-- Strengthening Data Structures & Algorithms (C++) to improve problem-solving and coding efficiency  
-- Learning System Design fundamentals to build scalable and production-ready backend systems  
-- Exploring DevOps and AWS to understand deployment, infrastructure, and real-world workflows  
-- Contributing to open-source projects and building impactful, real-world applications  
-
 ## 📊 GitHub Stats
 
 ### Stats:
