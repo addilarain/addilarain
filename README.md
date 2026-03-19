@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Adil Amjad, building impactful software with precision and purpose
-- 💻 Full Stack Software Engineer with 2+ years delivering scalable web applications
-- 🌍 Based in Lahore, Pakistan, collaborating with global teams, startups, and innovators
-- 🚀 Building high-performance applications from pixel-perfect frontends to scalable backend systems
-- 🎯 Currently focused on production-level projects and meaningful open source contributions
-- ⚡ Frontend expertise in JavaScript, TypeScript, React.js, and Next.js ecosystems
-- 🔧 Backend development using Node.js, Express.js, and MongoDB for scalable architectures
-- 🛒 Built projects like Smart Cart, LearnX, and JSON Schema Observability platform
-- 🧠 Solving algorithmic challenges on LeetCode with optimized and efficient approaches
-- 🤝 Open to full stack opportunities, collaborations, and impactful open source projects
-- 📈 Focused on clean code, performance optimization, and real-world problem solving
-- 📬 Reach me via Email, LinkedIn, GitHub, or Portfolio for collaboration opportunities
+# Hi, I'm Adil Amjad
+
+Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in Lahore, Pakistan. I build high-performance, scalable web applications — from pixel-perfect frontends to production-ready backend systems. I actively focus on writing clean, maintainable code and continuously improving my problem-solving and system design skills. I enjoy building real-world projects, contributing to open source, and collaborating on ideas that create meaningful impact.
+
+## Key Skills & Technologies
+
+- **Programming Languages**: JavaScript, TypeScript, C++  
+- **Frontend Development**: HTML, CSS, Tailwind CSS, Bootstrap, React.js, Next.js  
+- **Backend Development**: Node.js, Express.js, REST APIs, Authentication, Error Handling  
+- **Database**: MongoDB  
+- **Core Skills**: Data Structures & Algorithms, Problem Solving, System Design Fundamentals  
+- **Tools & Workflow**: Git, GitHub, Postman, VS Code  
+- **Currently Exploring**: DevOps, AWS, Scalable System Architecture  
+
+## Let’s Connect!
+
+I'm open to collaborations, open-source contributions, and opportunities to work on impactful and real-world projects.
+
+- GitHub: https://github.com/adilarain00  
+- LinkedIn: https://linkedin.com/in/your-link  
+
+---
+
+Thank you for visiting my profile. If you're interested in building scalable applications or collaborating on meaningful projects, feel free to reach out.
