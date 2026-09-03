@@ -22,5 +22,11 @@ I am a full-stack software engineer based in Lahore, Pakistan. I build scalable,
 | **The Smart Cart** | Multivendor E-Commerce platform with checkout, product flows, and dashboard tooling. | [Live](https://the-smart-cart.vercel.app/) |
 | **The LearnX** | Full-stack LMS with secure payments, video streaming, analytics, and course management. | [Live](https://the-learnx.vercel.app/) |
 
+## Now
 
+**➤ Building**: Practical full-stack products and clean product engineering.
+
+**➤ Learning**: System design, AI workflows, and high-quality software architecture.
+
+**➤ Open Source**: Contributing to useful tools, thoughtful code, and reusable patterns.
 
