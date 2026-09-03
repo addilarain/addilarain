@@ -1,3 +1,3 @@
 # Adil Amjad
 
-Software Engineer · Full-Stack Development · AI Systems
+Software Engineer | Product Engineering & Intelligent Systems | Open Source Contributor
